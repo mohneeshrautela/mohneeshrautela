@@ -1,4 +1,4 @@
-<h1 align="center"># alterityio 👋</h1>
+<h1 align="center">alterityio 👋</h1>
 
 
 
