@@ -2,7 +2,7 @@
 
 <p align="center">
   I'm deeply interested in blockchain and Web3 security, as well as AI and machine learning. 
-  I'll be sharing my projects here soons :)
+  I'll be sharing my projects here soon :)
 </p>
 
 <div align="center">
