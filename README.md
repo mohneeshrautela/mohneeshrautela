@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/alterityio/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alterityio&layout=compact&langs_count=3&bg_color=00000000&title_color=ffffff&text_color=c0c0c0&icon_color=2ecc71&hide_border=true" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alterityio&layout=compact&langs_count=4&bg_color=00000000&title_color=ffffff&text_color=c0c0c0&icon_color=2ecc71&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
